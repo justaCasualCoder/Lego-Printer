@@ -1,2 +1,28 @@
-# Lego-Printer
-A Lego Mindstorms 51515 Printer
+# Lego Mindstorms 51515 Printer
+This repository contains a Python script to work with [My Lego Printer](https://rebrickable.com/) On Rebrickable. My goal is to make every letter of the alphabet. Currently I am 42% There. I have made L,U,M,C,H,E,O,G,I,J, and T. 
+- [ ] A
+- [ ] B
+- [x] C
+- [ ] D
+- [x] E
+- [ ] F
+- [x] G
+- [x] H
+- [x] I
+- [x] J
+- [ ] K
+- [x] L
+- [x] M
+- [ ] N
+- [x] O
+- [ ] P
+- [ ] Q
+- [ ] R
+- [ ] S
+- [x] T
+- [x] U
+- [ ] V
+- [ ] W
+- [ ] X
+- [ ] Y
+- [ ] Z
